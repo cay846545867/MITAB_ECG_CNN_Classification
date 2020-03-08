@@ -1,0 +1,10 @@
+
+numpy£¬keras£¬matplotlib£¬wfdb£¬random£¬pywt£¬scikit-learn£¬glob£¬etc.
+
+Basic Algorithm For Beginners(Python version)
+
+Detailed tutorials: https://blog.csdn.net/weixin_42559479 
+
+
+
+
